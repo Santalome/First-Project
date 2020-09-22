@@ -9,7 +9,8 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: url('images/fondo.jpg');
+
 }
 /* Link Styles */
 
@@ -69,7 +70,7 @@ a:hover {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 70%;
   border: 3px solid yellow;
   transition: all .5s;
 }
